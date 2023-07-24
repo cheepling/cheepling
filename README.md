@@ -1,3 +1,3 @@
-I'm a person interested in learning to program, and enjoy creating music and games (especially 8-bit). 
-I'm better at Python than at most other languages, but I've done a couple of things in HTML, CSS and Javascript before.
-I'm currently exploring the pygame module for Python, and am also trying to create some basic discord bots based off games I've made.
+very mediocre python dev who dabbles into other languages occasionally
+pixel artist and occasionally gamedev, lmk if you have any art requests at cheeplingexists@gmail.com
+also a modded celeste enjoyer, no mods made yet but hoping to work on some
